@@ -30,6 +30,7 @@ main {
   padding: 15px 0;
   text-align: center;
   color: hsl(218, 44%, 22%);
+  font-size: 10px;
 }
 .card .card-content {
   text-align: center;
